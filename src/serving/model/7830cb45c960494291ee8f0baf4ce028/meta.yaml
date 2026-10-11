@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arupchowdhury/Documents/AI-School/Churn_analysis/Telco-Customer-Churn-ML-main/mlruns/728271592761380384/7830cb45c960494291ee8f0baf4ce028/artifacts
+end_time: 1791686884005
+entry_point_name: ''
+experiment_id: '728271592761380384'
+lifecycle_stage: active
+run_id: 7830cb45c960494291ee8f0baf4ce028
+run_name: fun-cod-363
+run_uuid: 7830cb45c960494291ee8f0baf4ce028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791686881674
+status: 3
+tags: []
+user_id: arupchowdhury
